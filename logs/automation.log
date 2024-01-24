@@ -1,0 +1,260 @@
+12:37:19.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:37:22.644 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:37:22.646 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:37:22.646 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:37:28.224 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:37:28.224 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:37:28.395 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:37:28.937 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:37:28.939 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:37:29.340 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+12:37:30.334 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:57:31.775 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\final.xml"
+12:57:42.034 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest*****
+12:57:42.034 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:57:42.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:57:42.944 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:57:42.945 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:57:46.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:57:49.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:57:49.795 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:57:49.795 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:57:55.275 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:57:55.275 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:57:55.398 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:57:56.508 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:57:56.514 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:57:57.023 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+12:57:57.676 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:25:39.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\final.xml"
+15:26:30.438 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\final.xml"
+15:26:38.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest*****
+15:26:38.897 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+15:26:39.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:26:39.623 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:26:39.623 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+15:26:43.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+15:26:46.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+15:26:46.270 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+15:26:46.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+15:26:51.164 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:26:51.165 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+15:26:51.300 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:26:51.768 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:26:51.770 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+15:26:52.070 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+15:26:52.545 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 20:34:46.804 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 20:34:47.109 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[DEBUG] 2024-01-23 20:38:06.161 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 20:38:06.407 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[INFO ] 2024-01-23 20:38:12.394 [main] TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest*****
+[DEBUG] 2024-01-23 20:38:12.395 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-01-23 20:38:12.528 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-01-23 20:38:13.003 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-01-23 20:38:13.003 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-01-23 20:38:16.716 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-01-23 20:38:19.823 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-01-23 20:38:19.828 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-01-23 20:38:19.828 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-01-23 20:38:24.822 [main] TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 20:38:24.823 [main] TC_002_LoginTest - capturing application debug logs....
+[INFO ] 2024-01-23 20:38:24.923 [main] TC_002_LoginTest - clicked on myaccount link on the home page..
+[INFO ] 2024-01-23 20:38:25.285 [main] TC_002_LoginTest - clicked on login link under myaccount..
+[INFO ] 2024-01-23 20:38:25.287 [main] TC_002_LoginTest - Entering valid email and password..
+[INFO ] 2024-01-23 20:38:25.539 [main] TC_002_LoginTest - clicked on login button..
+[INFO ] 2024-01-23 20:38:26.017 [main] TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+[INFO ] 2024-01-23 20:38:30.781 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2024-01-23 20:38:57.840 [main] TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+[DEBUG] 2024-01-23 20:42:47.516 [main] TestNG - suiteXmlPath: "C:\Users\Haris\AppData\Local\Temp\testng-eclipse-307579073\testng-customsuite.xml"
+[INFO ] 2024-01-23 20:42:47.718 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.721 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-01-23 20:42:47.722 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.722 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.723 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.723 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.723 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.723 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.729 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2024-01-23 20:42:47.736 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[INFO ] 2024-01-23 20:42:47.738 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.738 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.739 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.739 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.739 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.740 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.741 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.741 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.741 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.742 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.742 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.743 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.743 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.743 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.744 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-01-23 20:42:47.745 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-01-23 20:42:47.746 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.746 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.746 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.746 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-01-23 20:42:47.753 [main] Utils - [TestNG] Running:
+  C:\Users\Haris\AppData\Local\Temp\testng-eclipse-307579073\testng-customsuite.xml
+
+[INFO ] 2024-01-23 20:42:47.770 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[INFO ] 2024-01-23 20:42:47.976 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1e044120: 84 ms
+[INFO ] 2024-01-23 20:42:47.998 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1568159: 21 ms
+[INFO ] 2024-01-23 20:42:48.023 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a4e343: 25 ms
+[INFO ] 2024-01-23 20:42:48.035 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2f162cc0: 11 ms
+[INFO ] 2024-01-23 20:42:48.050 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@71c5b236: 14 ms
+[INFO ] 2024-01-23 20:42:48.051 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2cab9998: 1 ms
+[DEBUG] 2024-01-23 20:43:49.541 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 20:43:49.766 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[INFO ] 2024-01-23 20:43:55.073 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[DEBUG] 2024-01-23 20:52:16.903 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 20:52:17.160 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[INFO ] 2024-01-23 20:52:22.662 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[DEBUG] 2024-01-23 21:00:58.153 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 21:00:58.396 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[INFO ] 2024-01-23 21:01:03.798 [main] TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest*****
+[DEBUG] 2024-01-23 21:01:03.798 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-01-23 21:01:03.925 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-01-23 21:01:04.340 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-01-23 21:01:04.340 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-01-23 21:01:07.969 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-01-23 21:01:11.053 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-01-23 21:01:11.056 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-01-23 21:01:11.057 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-01-23 21:01:15.894 [main] TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 21:01:15.894 [main] TC_002_LoginTest - capturing application debug logs....
+[INFO ] 2024-01-23 21:01:16.008 [main] TC_002_LoginTest - clicked on myaccount link on the home page..
+[INFO ] 2024-01-23 21:01:16.414 [main] TC_002_LoginTest - clicked on login link under myaccount..
+[INFO ] 2024-01-23 21:01:16.416 [main] TC_002_LoginTest - Entering valid email and password..
+[INFO ] 2024-01-23 21:01:16.673 [main] TC_002_LoginTest - clicked on login button..
+[INFO ] 2024-01-23 21:01:17.115 [main] TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 21:06:24.437 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 21:06:24.708 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[INFO ] 2024-01-23 21:06:29.833 [main] TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest*****
+[DEBUG] 2024-01-23 21:06:29.833 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-01-23 21:06:29.949 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-01-23 21:06:30.323 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-01-23 21:06:30.323 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-01-23 21:06:33.973 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-01-23 21:06:37.080 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-01-23 21:06:37.088 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-01-23 21:06:37.089 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-01-23 21:06:42.054 [main] TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 21:06:42.055 [main] TC_002_LoginTest - capturing application debug logs....
+[INFO ] 2024-01-23 21:06:42.165 [main] TC_002_LoginTest - clicked on myaccount link on the home page..
+[INFO ] 2024-01-23 21:06:42.606 [main] TC_002_LoginTest - clicked on login link under myaccount..
+[INFO ] 2024-01-23 21:06:42.606 [main] TC_002_LoginTest - Entering valid email and password..
+[INFO ] 2024-01-23 21:06:42.857 [main] TC_002_LoginTest - clicked on login button..
+[INFO ] 2024-01-23 21:06:43.252 [main] TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 21:07:14.818 [main] TestNG - suiteXmlPath: "D:\Eclipse\workspace\opencart\master.xml"
+[INFO ] 2024-01-23 21:07:15.064 [main] Utils - [TestNG] Running:
+  D:\Eclipse\workspace\opencart\master.xml
+
+[INFO ] 2024-01-23 21:07:20.145 [main] TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest*****
+[DEBUG] 2024-01-23 21:07:20.145 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-01-23 21:07:20.260 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-01-23 21:07:20.613 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-01-23 21:07:20.613 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-01-23 21:07:24.441 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-01-23 21:07:27.543 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-01-23 21:07:27.550 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-01-23 21:07:27.550 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-01-23 21:07:32.233 [main] TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 21:07:32.233 [main] TC_002_LoginTest - capturing application debug logs....
+[INFO ] 2024-01-23 21:07:32.344 [main] TC_002_LoginTest - clicked on myaccount link on the home page..
+[INFO ] 2024-01-23 21:07:32.716 [main] TC_002_LoginTest - clicked on login link under myaccount..
+[INFO ] 2024-01-23 21:07:32.717 [main] TC_002_LoginTest - Entering valid email and password..
+[INFO ] 2024-01-23 21:07:32.997 [main] TC_002_LoginTest - clicked on login button..
+[INFO ] 2024-01-23 21:07:33.411 [main] TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+[DEBUG] 2024-01-23 21:07:38.513 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:38.516 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:38.520 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:38.932 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.029 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.030 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.031 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.041 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.053 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.055 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.056 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.066 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.081 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.081 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.082 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.090 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.099 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.100 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.100 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.107 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.117 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.117 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.118 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.124 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.136 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.137 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.138 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.145 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.153 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.155 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.155 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.162 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.173 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.174 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.176 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.183 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.190 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.191 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.191 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.198 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.206 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.207 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.208 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.214 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.222 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.223 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.223 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.229 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.236 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.237 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.237 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.242 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.249 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.250 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.257 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.266 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.266 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.267 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.277 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.288 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.289 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.289 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.297 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-01-23 21:07:39.306 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-01-23 21:07:39.306 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-01-23 21:07:39.306 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-01-23 21:07:39.312 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-01-23 21:07:39.324 [main] TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:07:40.646 [main] TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:07:51.370 [main] TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:07:51.373 [main] TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:08:02.017 [main] TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:08:02.023 [main] TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:08:12.739 [main] TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:08:12.748 [main] TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+[INFO ] 2024-01-23 21:08:14.092 [main] TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
