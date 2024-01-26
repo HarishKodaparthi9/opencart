@@ -109,13 +109,6 @@
 	    <version>7.9.0</version>
 	    <scope>test</scope>
 	</dependency>
-	
-	
-	<dependency>
-		<groupId>seleniumproject</groupId>
-		<artifactId>seleniumproject</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
 </dependencies>
 
 
